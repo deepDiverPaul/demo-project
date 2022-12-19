@@ -1,4 +1,4 @@
-# demo-project
+# demo-project - sample of work
 
 ## Prerequisites
 
